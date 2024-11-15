@@ -1,0 +1,2 @@
+# Pharmacy
+ PharmaPOS provides pharmacies with a comprehensive point-of-sale system designed to streamline inventory management, sales tracking, and customer service. Through an intuitive interface and seamless integration with pharmacy management tools, PharmaPOS allows pharmacy staff to efficiently process transactions, manage stock levels, and maintain regulatory compliance. Accessible from any device, it empowers pharmacy owners and staff to improve operational efficiency and deliver exceptional service to their customers.
